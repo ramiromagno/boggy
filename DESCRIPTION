@@ -1,0 +1,25 @@
+Package: boggy
+Title: Real-Time PCR Data Sets by Boggy et al. (2010) 
+Version: 0.0.1
+Authors@R: c(
+    person("Ramiro", "Magno", , "rmagno@pattern.institute", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5226-3441")),
+    person("Pattern Institute", role = c("cph", "fnd"))
+  )
+Description: Real-time quantitative polymerase chain reaction (qPCR) data
+    sets by Boggy et al. (2008) <doi:10.1371/journal.pone.0012355>. This package
+    provides a dilution series for one PCR target: a random sequence that
+    minimizes secondary structure and off-target primer binding. The data set
+    is a six-point, ten-fold dilution series.
+    For each concentration there are two replicates. Each amplification curve
+    is 40 cycles long. Original raw data file:
+    <https://journals.plos.org/plosone/article/file?type=supplementary&id=10.1371/journal.pone.0012355.s004>.
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    tibble
+Depends: 
+    R (>= 2.10)
+LazyData: true
