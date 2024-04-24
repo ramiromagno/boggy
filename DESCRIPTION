@@ -1,5 +1,5 @@
 Package: boggy
-Title: Real-Time PCR Data Sets by Boggy et al. (2010) 
+Title: Real-Time PCR Data Sets by Boggy et al. (2010)
 Version: 0.0.1
 Authors@R: c(
     person("Ramiro", "Magno", , "rmagno@pattern.institute", role = c("aut", "cre"),
