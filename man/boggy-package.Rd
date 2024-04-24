@@ -8,6 +8,15 @@
 \description{
 Real-time quantitative polymerase chain reaction (qPCR) data sets by Boggy et al. (2008) \doi{10.1371/journal.pone.0012355}. This package provides a dilution series for one PCR target: a random sequence that minimizes secondary structure and off-target primer binding. The data set is a six-point, ten-fold dilution series. For each concentration there are two replicates. Each amplification curve is 40 cycles long. Original raw data file: \url{https://journals.plos.org/plosone/article/file?type=supplementary&id=10.1371/journal.pone.0012355.s004}.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://rmagno.eu/boggy/}
+  \item \url{https://github.com/ramiromagno/boggy}
+  \item Report bugs at \url{https://github.com/ramiromagno/boggy/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Ramiro Magno \email{rmagno@pattern.institute} (\href{https://orcid.org/0000-0001-5226-3441}{ORCID})
 
