@@ -4,6 +4,10 @@
 # boggy
 
 <!-- badges: start -->
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/boggy)](https://CRAN.R-project.org/package=boggy)
+[![R-CMD-check](https://github.com/ramiromagno/boggy/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ramiromagno/boggy/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 `{boggy}` provides the real-time PCR data set *s1* by Boggy et
